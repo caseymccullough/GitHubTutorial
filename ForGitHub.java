@@ -4,6 +4,9 @@ public class ForGitHub
    {
       System.out.println ("Hello GitHub!");
       System.out.println ("A message from Sue");
+      
+      int sueInt = 99;
+      
    
    }
 
